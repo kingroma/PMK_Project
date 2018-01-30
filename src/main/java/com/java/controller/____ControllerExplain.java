@@ -1,6 +1,6 @@
 package com.java.controller;
 
-public class __ControllerExplain {
+public class ____ControllerExplain {
 	// 기능 제어 클래스
 	
 	// UserController
@@ -14,6 +14,4 @@ public class __ControllerExplain {
 	// LocationController
 	//
 	//
-	
-
 }

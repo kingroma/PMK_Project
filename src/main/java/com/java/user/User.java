@@ -14,6 +14,7 @@ public class User {
 	private int registration_number; // 주민번호
 	private int phone;
 	private int age;
+	
 	private int status; // 아이디의 상태 0 정상회원 1 비정상회원 2 탈퇴회원
 
 	public User() {

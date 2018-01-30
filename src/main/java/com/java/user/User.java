@@ -20,7 +20,7 @@ public class User {
 	private int phone;
 	private int age;
 	private int status;
-
+	
 	public User() {
 		init();
 	}

@@ -14,7 +14,7 @@ public class UserHistory {
 	private int money_per_hour;
 	private int bonus; // 보너스
 	
-	private boolean get_money; // 돈 받았냐 default false; 
+	private boolean got_money; // 돈 받았냐 default false; 
 	private boolean captain;
 	
 

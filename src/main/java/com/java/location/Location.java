@@ -6,6 +6,6 @@ public class Location {
 	private String hall_name;
 	private String site;
 	private String memo;
-	
+	private int status; // 0 은 정상 1은 정지 2는 delete
 	
 }

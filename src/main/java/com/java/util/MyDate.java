@@ -1,5 +1,5 @@
 package com.java.util;
 
-public class DateForm {
+public class MyDate {
 
 }
